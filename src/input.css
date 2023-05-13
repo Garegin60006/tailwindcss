@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.karmir{
+    @apply bg-red-600 text-xl text-blue-200;
+}
